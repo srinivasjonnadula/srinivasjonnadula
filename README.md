@@ -37,3 +37,11 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **15 yea
 
 - 🏢 **Avineon** – *GIS Engineer*  
   Developed spatial mapping solutions using AutoCAD. Delivered 24/7 monitoring and ensured data accuracy and map validation integrity.
+
+  ## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=srinivasjonnadula&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=srinivasjonnadula&theme=cobalt2&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=srinivasjonnadula&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+ 
