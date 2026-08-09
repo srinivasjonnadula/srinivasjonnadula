@@ -3,7 +3,7 @@
 ### Principal Site Reliability Engineer – SRE @ Oracle
 🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform
 ### Live Monitoring 
-![Profile Views](https://komarev.com/ghpvc/?username=redashu)
+![Profile Views](https://komarev.com/ghpvc/?username=srinivasjonnadula)
 <!-- 
 **redashu/redashu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
