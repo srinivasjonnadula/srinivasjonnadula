@@ -8,3 +8,5 @@
 [![Gmail](https://img.shields.io/badge/Email-srinivas.jonnadula@gmail.com-red?logo=gmail&style=flat)](mailto:srinivas.jonnadula@gmail.com)
 
 I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **15 years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS,OCI and Azure
+
+### 🧰 Tech Stack
